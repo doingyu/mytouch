@@ -1,0 +1,80 @@
+10
+
+dir
+3136
+svn://172.25.34.77:9100/fenxiao/web/static/mtouch
+svn://172.25.34.77:9100/fenxiao
+
+
+
+2013-04-18T08:33:16.773929Z
+3136
+kpxu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+e3491db9-89cb-4d4a-8f84-999bda5d588c
+
+release
+dir
+
+lib
+dir
+
+src
+dir
+
+docs
+dir
+
+index.html
+file
+
+
+
+
+2013-04-18T08:32:42.245657Z
+e227ed0687a8fbf27a606cef7aa78392
+2013-04-18T07:03:55.905357Z
+3130
+kpxu
+has-props
+
+
+svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1367
+
+makefile
+dir
+
+examples
+dir
+
